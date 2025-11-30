@@ -1,0 +1,26 @@
+[
+  {
+    "name": "NID_AUT",
+    "value": "샘플_쿠키값",
+    "domain": ".naver.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "NID_SES",
+    "value": "샘플_쿠키값",
+    "domain": ".naver.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "nid_inf",
+    "value": "샘플_쿠키값",
+    "domain": ".naver.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  }
+]
